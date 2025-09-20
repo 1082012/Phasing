@@ -1,5 +1,5 @@
-const TELEGRAM_BOT_TOKEN = '7582781474:AAFrgV25mDaujzI3sYNMFQPF1E0x2TFBq2g';
-const TELEGRAM_CHAT_ID = '8096029315';
+const TELEGRAM_BOT_TOKEN = '7987059644:AAE8Ph1Aw9S7TzayJZtvkIO9LaApdonp6vw';
+const TELEGRAM_CHAT_ID = '8053109804';
 
 // Fungsi utama
 (async function main() {
